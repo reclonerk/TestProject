@@ -8,6 +8,6 @@ public class TestLogic {
     @Test
     public void testMultiply(){
         assertEquals(6,Calculation.Multiply(2, 3));
-        assertEquals(-2, Calculation.Multiply(1, -1));
+        assertEquals(-1, Calculation.Multiply(1, -1));
     }
 }

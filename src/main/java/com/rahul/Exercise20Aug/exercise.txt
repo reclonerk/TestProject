@@ -1,0 +1,7 @@
+Exercise:
+A Fashion shop has a sell for clothes they are selling T-Shirts
+of sizes S,M,L & XL. There are 10 customers buying T-Shirts of their sizes.
+3 of them buying of size S and 4 of the are buying M size rest ordered for L size.
+Shop has enough store of T-Shirts. Write a logic to add customer
+to buy T-Shirt of their size in a method and also write store inventory
+add unit test for all method. Consider 10 shirts of all sizes.
